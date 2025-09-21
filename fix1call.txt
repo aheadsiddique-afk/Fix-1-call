@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fix 1 Call - Fast & Reliable Services in Mathura</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            color: #2d3748;
+            background-color: #f7fafc;
+        }
+        .nav-link {
+            transition: color 0.3s ease;
+        }
+        .nav-link:hover {
+            color: #f97316;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Header -->
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+        <nav class="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex flex-col sm:flex-row justify-between items-center">
+            <a href="#" class="text-2xl font-bold text-gray-900">
+                Fix 1 Call
+            </a>
+            <div class="mt-4 sm:mt-0 space-x-4 flex-wrap flex justify-center">
+                <a href="#home" class="nav-link text-gray-600 hover:text-orange-500 font-medium">Home</a>
+                <a href="#about" class="nav-link text-gray-600 hover:text-orange-500 font-medium">About Us</a>
+                <a href="#services" class="nav-link text-gray-600 hover:text-orange-500 font-medium">Services</a>
+                <a href="#contact" class="nav-link text-gray-600 hover:text-orange-500 font-medium">Contact</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="space-y-20">
+        <!-- Home Section -->
+        <section id="home" class="bg-gray-100 py-16 md:py-24">
+            <div class="container mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-8">
+                <div class="md:w-1/2 text-center md:text-left">
+                    <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight mb-4">
+                        Welcome to Fix 1 Call
+                    </h1>
+                    <p class="text-lg md:text-xl text-gray-700 mb-8 max-w-lg mx-auto md:mx-0">
+                        <span class="font-semibold">One Call, All Solutions.</span> Mathura aur aas-paas ke tourists ke liye ham lekar aaye hain ek hi platform jahan aapko mile trusted electricians, mechanics, plumbers aur home services – sab ek hi call par.
+                    </p>
+                    <a href="tel:9568084719" class="inline-block bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-8 rounded-full shadow-lg transition duration-300">
+                        Call Now: +91 9568084719
+                    </a>
+                </div>
+                <!-- Side Section -->
+                <div class="md:w-1/2 mt-8 md:mt-0 flex flex-col items-center p-8 rounded-2xl shadow-xl bg-gray-900 text-yellow-300">
+                    <div class="w-20 h-20 mb-5 bg-gray-700 rounded-full flex items-center justify-center">
+                        <!-- Placeholder for a logo/icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-12 h-12 text-yellow-300" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+                        </svg>
+                    </div>
+                    <h1 class="text-3xl font-bold text-center mb-2">
+                        Need an Emergency Repair?
+                    </h1>
+                    <p class="text-yellow-100 text-center">
+                        Our verified experts are on standby to assist you immediately.
+                    </p>
+                    <a href="tel:9568084719" class="inline-block bg-yellow-300 text-gray-900 font-bold py-3 px-8 rounded-full mt-5 hover:bg-yellow-400 transition duration-300">
+                        Call for Instant Help
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Us Section -->
+        <section id="about" class="py-16 md:py-24">
+            <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="text-center">
+                    <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+                        About Fix 1 Call
+                    </h2>
+                    <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+                        Fix 1 Call me hum provide karte hain fast, safe aur affordable services for all your home and vehicle needs. Hamare professionals verified aur ready hain help ke liye, anytime. We ensure your peace of mind aur every service call ko handled with the utmost reliability and care.
+                    </p>
+                </div>
+                <div class="mt-12 flex flex-col md:flex-row justify-around items-center gap-8 text-center">
+                    <div class="flex flex-col items-center">
+                        <img src="https://placehold.co/100x100/f8d380/4a4a4a?text=Verified" alt="Verified Professionals" class="rounded-full shadow-md mb-4">
+                        <h3 class="text-xl font-semibold text-gray-800">Verified Experts</h3>
+                        <p class="text-sm text-gray-600 mt-2 max-w-xs">Hamare professionals ka background check aur skill verification hota hai.</p>
+                    </div>
+                    <div class="flex flex-col items-center">
+                        <img src="https://placehold.co/100x100/96d192/4a4a4a?text=Fast" alt="Fast Service" class="rounded-full shadow-md mb-4">
+                        <h3 class="text-xl font-semibold text-gray-800">Prompt Service</h3>
+                        <p class="text-sm text-gray-600 mt-2 max-w-xs">Hum ensure karte hain quick response to resolve your issue without delay.</p>
+                    </div>
+                    <div class="flex flex-col items-center">
+                        <img src="https://placehold.co/100x100/81c784/4a4a4a?text=Affordable" alt="Affordable Pricing" class="rounded-full shadow-md mb-4">
+                        <h3 class="text-xl font-semibold text-gray-800">Fair Pricing</h3>
+                        <p class="text-sm text-gray-600 mt-2 max-w-xs">Transparent aur affordable pricing with no hidden costs.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Services Section -->
+        <section id="services" class="bg-gray-100 py-16 md:py-24">
+            <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="text-center mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+                        Our Services / Hamari Services
+                    </h2>
+                    <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+                        Aapki har need ke liye, hamare skilled professionals provide karte hain reliable aur efficient solutions.
+                    </p>
+                </div>
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Service 1 -->
+                    <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 flex flex-col items-center text-center">
+                        <img src="https://placehold.co/80x80/2d3748/f7fafc?text=E" alt="Electrician Icon" class="rounded-full mb-4">
+                        <h3 class="text-xl font-semibold text-gray-800 mb-2">Electrician</h3>
+                        <p class="text-gray-600">All electrical repair & installation.</p>
+                    </div>
+                    <!-- Service 2 -->
+                    <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 flex flex-col items-center text-center">
+                        <img src="https://placehold.co/80x80/2d3748/f7fafc?text=M" alt="Mechanic Icon" class="rounded-full mb-4">
+                        <h3 class="text-xl font-semibold text-gray-800 mb-2">Mechanic</h3>
+                        <p class="text-gray-600">Car & bike repairs at your doorstep.</p>
+                    </div>
+                    <!-- Service 3 -->
+                    <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 flex flex-col items-center text-center">
+                        <img src="https://placehold.co/80x80/2d3748/f7fafc?text=P" alt="Plumber Icon" class="rounded-full mb-4">
+                        <h3 class="text-xl font-semibold text-gray-800 mb-2">Plumber</h3>
+                        <p class="text-gray-600">Home & commercial plumbing solutions.</p>
+                    </div>
+                    <!-- Service 4 -->
+                    <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 flex flex-col items-center text-center">
+                        <img src="https://placehold.co/80x80/2d3748/f7fafc?text=AC" alt="AC Repair Icon" class="rounded-full mb-4">
+                        <h3 class="text-xl font-semibold text-gray-800 mb-2">AC Repair</h3>
+                        <p class="text-gray-600">Fast aur professional AC services.</p>
+                    </div>
+                    <!-- Service 5 -->
+                    <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 flex flex-col items-center text-center">
+                        <img src="https://placehold.co/80x80/2d3748/f7fafc?text=C" alt="Carpentry Icon" class="rounded-full mb-4">
+                        <h3 class="text-xl font-semibold text-gray-800 mb-2">Carpentry</h3>
+                        <p class="text-gray-600">Home & office carpentry solutions.</p>
+                    </div>
+                    <!-- Service 6 -->
+                    <div class="bg-white p-6 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 flex flex-col items-center text-center">
+                        <img src="https://placehold.co/80x80/2d3748/f7fafc?text=Other" alt="Other Services Icon" class="rounded-full mb-4">
+                        <h3 class="text-xl font-semibold text-gray-800 mb-2">Other Services</h3>
+                        <p class="text-gray-600">Additional home & vehicle maintenance services.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="py-16 px-5 bg-gray-100">
+            <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-start justify-center gap-10">
+                <!-- Contact Info & Map -->
+                <div class="w-full md:w-1/2">
+                    <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+                        Get in Touch / Sampark Karein
+                    </h2>
+                    <p class="text-base text-gray-600 mb-2">
+                        <span class="font-semibold">Phone:</span> <a href="tel:9568084719" class="text-orange-500 hover:underline">9568084719</a>
+                    </p>
+                    <p class="text-base text-gray-600 mb-4">
+                        <span class="font-semibold">Location:</span> Mathura, India
+                    </p>
+                    <!-- Google Map Embed -->
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.000000000000!2d77.67200000000001!3d27.4920000000000!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x0000000000000000!2sMathura%2C%20India!5e0!3m2!1sen!2sin!4v1695000000000"
+                        width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" class="rounded-xl shadow-md">
+                    </iframe>
+                </div>
+
+                <!-- Contact Form -->
+                <div class="w-full md:w-1/2 bg-white p-8 rounded-xl shadow-lg">
+                    <h3 class="text-2xl font-bold text-gray-900 mb-6">Request Service</h3>
+                    <form id="contactForm" class="flex flex-col gap-4">
+                        <input type="text" name="name" placeholder="Your Name" required
+                            class="p-3 text-base border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500">
+                        <input type="tel" name="mobile" placeholder="Mobile Number" required pattern="[0-9]{10}"
+                            class="p-3 text-base border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500">
+                        <button type="submit"
+                            class="py-3 px-6 text-base font-semibold bg-orange-500 text-white border-none rounded-lg cursor-pointer transition-colors duration-300 hover:bg-orange-600">
+                            Send Request
+                        </button>
+                    </form>
+                    <!-- Message container for form validation -->
+                    <div id="messageBox" class="mt-4 p-4 rounded-lg text-sm hidden"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Old Contact Section that was there from before-->
+        <section id="contact-old" class="bg-orange-500 py-16 md:py-24">
+            <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="text-center text-white mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold mb-4">
+                        Get in Touch / Sampark Karein
+                    </h2>
+                    <p class="text-lg">
+                        Service book karne ke liye, abhi contact karein.
+                    </p>
+                </div>
+                <div class="flex flex-col md:flex-row justify-center items-start gap-12">
+                    <div class="bg-white p-8 rounded-xl shadow-lg md:w-1/2">
+                        <h3 class="text-2xl font-bold text-gray-900 mb-4">Contact Details</h3>
+                        <p class="text-gray-700 mb-2">
+                            <span class="font-semibold">Phone:</span> <a href="tel:9568084719" class="text-orange-500 hover:underline">+91 9568084719</a>
+                        </p>
+                        <p class="text-gray-700 mb-2">
+                            <span class="font-semibold">Email:</span> <a href="mailto:fix1call@gmail.com" class="text-orange-500 hover:underline">fix1call@gmail.com</a>
+                        </p>
+                        <p class="text-gray-700 mb-2">
+                            <span class="font-semibold">Location:</span> Mathura, Uttar Pradesh, India
+                        </p>
+                    </div>
+                    <div class="md:w-1/2 bg-white p-2 rounded-xl shadow-lg">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d113645.98925501865!2d77.6256865743454!3d27.49751996160395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397371d34c11b023%3A0x6a0c5c36d3c01a24!2sMathura%2C%20Uttar%20Pradesh%2C%20India!5e0!3m2!1sen!2sus!4v1699999999999!5m2!1sen!2sus"
+                            width="100%"
+                            height="300"
+                            style="border:0;"
+                            allowfullscreen=""
+                            loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"
+                            class="rounded-xl"
+                        ></iframe>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8 text-center md:flex md:justify-between md:items-center">
+            <p>&copy; 2024 Fix 1 Call. All rights reserved.</p>
+            <div class="flex justify-center md:justify-end space-x-4 mt-4 md:mt-0">
+                <a href="#" class="hover:text-orange-500 transition-colors">Facebook</a>
+                <a href="#" class="hover:text-orange-500 transition-colors">Twitter</a>
+                <a href="#" class="hover:text-orange-500 transition-colors">LinkedIn</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const name = this.name.value.trim();
+            const mobile = this.mobile.value.trim();
+            const messageBox = document.getElementById('messageBox');
+
+            if (name === '' || mobile === '') {
+                messageBox.classList.remove('hidden', 'bg-green-100', 'text-green-800', 'bg-red-100', 'text-red-800');
+                messageBox.classList.add('bg-red-100', 'text-red-800');
+                messageBox.textContent = 'Please fill both Name and Mobile Number.';
+            } else if (!/^\d{10}$/.test(mobile)) {
+                messageBox.classList.remove('hidden', 'bg-green-100', 'text-green-800', 'bg-red-100', 'text-red-800');
+                messageBox.classList.add('bg-red-100', 'text-red-800');
+                messageBox.textContent = 'Please enter a valid 10-digit Mobile Number.';
+            } else {
+                // Here you would typically send the form data to a server
+                console.log('Form submitted:', { name, mobile });
+                messageBox.classList.remove('hidden', 'bg-green-100', 'text-green-800', 'bg-red-100', 'text-red-800');
+                messageBox.classList.add('bg-green-100', 'text-green-800');
+                messageBox.textContent = 'Thank you for your request! We will contact you shortly.';
+                // Reset form
+                this.reset();
+            }
+        });
+    </script>
+</body>
+</html>
